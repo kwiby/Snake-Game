@@ -8,4 +8,4 @@ A simple snake game made using Python PyGame for my grade 10 Computer Studies co
 ## Music Info
 | **Title** | **Creator** |
 | - | - |
-| [<div align = "center"><Poké & Chill</div>](https://www.youtube.com/watch?v=2DVpys50LVE) | <div align = "center">GameChops</div>(https://gamechops.com/) |
+| [<div align = "center"><Poké & Chill</div>](https://www.youtube.com/watch?v=2DVpys50LVE) | [<div align = "center">GameChops</div>](https://gamechops.com/) |
