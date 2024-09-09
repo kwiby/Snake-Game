@@ -2,8 +2,8 @@
 A simple snake game made using Python PyGame for my grade 10 Computer Studies course.
 
 ## Python Version
-| **Python** | **PyGame** |
-|:-|-|
+|: **Python** |: **PyGame** |
+|:-|:-|
 | [3.10.10](https://www.python.org/downloads/release/python-31010/) | [2.1.3](https://github.com/pygame/pygame/releases/tag/2.1.3) |
 
 ## Music Info
