@@ -16,4 +16,4 @@ https://github.com/pygame/pygame/releases/tag/2.1.3
 
 **Creator:** GameChops
 
-**Link:** https://www.youtube.com/watch?v=2DVpys50LVE
+https://www.youtube.com/watch?v=2DVpys50LVE
