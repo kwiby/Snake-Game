@@ -1,5 +1,6 @@
 # Snake Game
 A simple snake game made using Python PyGame for my grade 10 Computer Studies course.
+![Alt Image](path/to/Main Menu Image.png)
 
 ## Versions
 | **Python** | **PyGame** |
