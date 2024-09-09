@@ -3,6 +3,7 @@ A simple snake game made using Python PyGame for my grade 10 Computer Studies co
 
 ## Python Version
 **Python:** 3.10.10
+
 **PyGame:** 2.1.3
 
 ## Music Info
