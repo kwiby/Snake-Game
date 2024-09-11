@@ -6,8 +6,8 @@ A simple snake game made using Python PyGame for my grade 10 Computer Studies co
 ## Versions
 | **Python** | **PyGame** |
 | - | - |
-| <p align="center"> [3.10.10](https://www.python.org/downloads/release/python-31010/) </p> | <div align="center">[2.1.3](https://github.com/pygame/pygame/releases/tag/2.1.3)</div> |
+| <div align="center"> [3.10.10](https://www.python.org/downloads/release/python-31010/) </div> | <div align="center">[2.1.3](https://github.com/pygame/pygame/releases/tag/2.1.3)</div> |
 ## Music Info
 | **Title** | **Creator** |
 | - | - |
-| [<div align = "center">Poké & Chill</div>](https://www.youtube.com/watch?v=2DVpys50LVE) | [<div align = "center">GameChops</div>](https://gamechops.com/) |
+| <div align="center"> [Poké & Chill](https://www.youtube.com/watch?v=2DVpys50LVE) </div> | <div align="center"> [GameChops](https://gamechops.com/) </div> |
