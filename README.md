@@ -6,7 +6,7 @@ A simple snake game made using Python PyGame for my grade 10 Computer Studies co
 ## Versions
 | **Python** | **PyGame** |
 | - | - |
-| <p align="center"> [3.10.10](https://www.python.org/downloads/release/python-31010/) </p> | [<div align="center">2.1.3</div>](https://github.com/pygame/pygame/releases/tag/2.1.3) |
+| <p align="center"> [3.10.10](https://www.python.org/downloads/release/python-31010/) </p> | <p align="center"> [<div align="center">2.1.3</div>](https://github.com/pygame/pygame/releases/tag/2.1.3) </p> |
 ## Music Info
 | **Title** | **Creator** |
 | - | - |
